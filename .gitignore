@@ -1,0 +1,16 @@
+```gitignore
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Entorno virtual (si llegas a usar uno)
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+```
